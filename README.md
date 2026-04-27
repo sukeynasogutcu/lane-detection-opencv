@@ -22,3 +22,5 @@ Bu proje, otonom araç teknolojileri ve yapay zeka güvenliği alanındaki kişi
 
 # Sistemin Sınırları
 Algoritma, şeritlerin silik olduğu eski yollarda veya aşırı güneş parlaması olan durumlarda bazen hassasiyet kaybı yaşamaktadır. Geliştirme aşamasında "Moving Average" eklenerek titremeler daha da azaltılabilir.
+
+![Lane Detection Demo](demo.gif)
